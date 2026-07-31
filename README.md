@@ -4,7 +4,7 @@ Bachelor's graduate in **Philosophy and Artificial Intelligence** from **Sapienz
 
 I'm interested in **Data Analysis**, **SQL** and **Machine Learning**, with a particular focus on healthcare data.
 
-I enjoy working with complex datasets, transforming raw data into meaningful insights through data analysis and machine learning to support data-driven decision making.
+I enjoy working with complex datasets, transforming raw data into meaningful insights that support data-driven decision making.
 
 ---
 
