@@ -1,6 +1,6 @@
-# Hi, I'm Sofia Rubini
+# Hi, I'm Sofia Rubini !!!
 
-Bachelor's graduate in **Philosophy and Artificial Intelligence** at **Sapienza University of Rome**.
+Bachelor's graduate in **Philosophy and Artificial Intelligence** from **Sapienza University of Rome**.
 
 I'm interested in **Data Analysis**, **SQL** and **Machine Learning**, with a particular focus on healthcare data.
 
@@ -55,7 +55,3 @@ Sapienza University of Rome
 
 - LinkedIn
 - Email: **sofiarubini02@gmail.com**
-
----
-
-Thanks for visiting my GitHub profile!
