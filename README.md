@@ -1,29 +1,61 @@
-# Hi, I'm Sofia
+# Hi, I'm Sofia Rubini
 
-I'm a Data Analyst enthusiast with a strong interest in healthcare analytics, SQL, and data-driven decision making.
+Bachelor's graduate in **Philosophy and Artificial Intelligence** at **Sapienza University of Rome**.
+
+I'm interested in **Data Analysis**, **SQL** and **Machine Learning**, with a particular focus on healthcare data.
+
+I enjoy working with complex datasets, transforming raw data into meaningful insights through data analysis and machine learning to support data-driven decision making.
+
+---
 
 ## Education
 
-- Bachelor's Degree in Philosophy and Artificial Intelligence
-- Sapienza University of Rome
+**Bachelor's Degree in Philosophy and Artificial Intelligence**  
+Sapienza University of Rome
 
-## Skills
+---
 
-- SQL
-- PostgreSQL
+## Technical Skills
+
+### Programming Languages
 - Python
-- Data Analysis
-- Healthcare Analytics
+- SQL
+- Java (basic)
+- C (basic)
+- HTML (basic)
 
-## Featured Project
+### Databases
+- PostgreSQL
+- MySQL
 
-### Healthcare Data Analytics using SQL
+### Tools
+- Git & GitHub
+- Jupyter Notebook
+- Google Colab
+- Microsoft Excel
 
-Analysis of approximately **600,000 anonymized healthcare records** from the AMD-STITCH database using SQL and PostgreSQL.
+---
 
-Repository:
-https://github.com/sofiarubini02/healthcare-data-analytics
+## Featured Projects
+
+- **Healthcare Data Analytics using SQL** – Analysis of approximately 600,000 anonymized healthcare records using PostgreSQL.
+
+- **Clinical Outcome Prediction (ACTG 175)** – End-to-end Machine Learning pipeline for predicting HIV treatment failure.
+
+- **AI Incident Database Analysis** – SQL analysis of a relational database of AI-related incidents.
+
+- **Bank Marketing Machine Learning** – Predictive modeling with explainable AI techniques.
+
+- **Natural Language Inference** – Deep Learning models (LSTM, BiLSTM and CNN) for the SNLI dataset.
+
+
+---
 
 ## Contact
 
-- LinkedIn: *(aggiungerai il link quando sarà pronto)*
+- LinkedIn
+- Email: **sofiarubini02@gmail.com**
+
+---
+
+Thanks for visiting my GitHub profile!
