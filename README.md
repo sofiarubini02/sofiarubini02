@@ -1,4 +1,4 @@
-# Hi, I'm Sofia Rubini !!!
+# Hi, I'm Sofia Rubini 👋
 
 Bachelor's graduate in **Philosophy and Artificial Intelligence** from **Sapienza University of Rome**.
 
@@ -38,16 +38,15 @@ Sapienza University of Rome
 
 ## Featured Projects
 
-- **Healthcare Data Analytics using SQL** – Analysis of approximately 600,000 anonymized healthcare records using PostgreSQL.
+- 🏥 **Healthcare Data Analytics using SQL** – Analysis of approximately 600,000 anonymized healthcare records using PostgreSQL.
 
-- **Clinical Outcome Prediction (ACTG 175)** – End-to-end Machine Learning pipeline for predicting HIV treatment failure.
+- 🩺 **Clinical Outcome Prediction (ACTG 175)** – End-to-end Machine Learning pipeline for predicting HIV treatment failure.
 
-- **AI Incident Database Analysis** – SQL analysis of a relational database of AI-related incidents.
+- 🤖 **AI Incident Database Analysis** – SQL analysis of a relational database of AI-related incidents.
 
-- **Bank Marketing Machine Learning** – Predictive modeling with explainable AI techniques.
+- 💳 **Bank Marketing Machine Learning** – Predictive modeling with explainable AI techniques.
 
-- **Natural Language Inference** – Deep Learning models (LSTM, BiLSTM and CNN) for the SNLI dataset.
-
+- 🧠 **Natural Language Inference** – Deep Learning models (LSTM, BiLSTM and CNN) for the SNLI dataset.
 
 ---
 
