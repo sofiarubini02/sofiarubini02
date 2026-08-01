@@ -52,5 +52,5 @@ Sapienza University of Rome
 
 ## Contact
 
-- LinkedIn
+- LinkedIn: [linkedin.com/in/sofia-rubini](https://www.linkedin.com/in/sofia-rubini/)
 - Email: **sofiarubini02@gmail.com**
